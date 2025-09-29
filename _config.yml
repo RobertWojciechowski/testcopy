@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yaping Wang # the website title (if blank, full name will be used instead)
-first_name: Yaping
+title: Robert Wojciechowski # the website title (if blank, full name will be used instead)
+first_name: Robert
 middle_name: 
-last_name: Wang
-email: yaping.wang@upf.edu
-description: Yaping Wang, PhD Candidate in Economics at Universitat Pompeu Fabra (UPF)
+last_name: Wojciechowski
+email: robert.wojciechoski@upf.edu
+description: Robert Wojciechowski, PhD Candidate in Economics at Universitat Pompeu Fabra
 footer_text: 
-keywords: Econometrics, Statistics, Finance, UPF # add your own keywords or leave empty
+keywords: Econometrics, Macroeconomics, Causality # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://yapingw.github.io # the base hostname & protocol for your site
+url: https://robertwojciechowski.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -103,7 +103,7 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://www.upf.edu/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/wang-yaping/maximized # work page URL
+work_url: https://www.upf.edu/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/wojciechowski-robert/maximized # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
