@@ -248,7 +248,7 @@ keep_files:
 
 # Plug-ins
 plugins:
- # - jekyll-archives-v2
+  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -261,7 +261,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
- # - jekyll-toc
+  - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 
