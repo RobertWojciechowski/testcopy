@@ -1,8 +1,8 @@
+"caggese":
+  - firstname: ["Andrea", "A."]
+    url: https://andreacaggese.weebly.com/
 
-"brownlees": # lowercase!!
-  - firstname: ["Christian", "C."]
-    url: https://ctbrownlees.github.io/
+"villegas-sanchez":
+  - firstname: ["Carolina", "C."]
+    url: https://sites.google.com/site/carolinavillegassanchez/
 
-"gumundsson": # lowercase!! remove ð (in _layouts/bib.liquid)
-  - firstname: ["Guðmundur Stefán", "G. S.", "Guðmundur"]
-    url: https://gstefan.github.io/
